@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Financial LAB</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">LAB</string>
+    <string name="tab_text_3">Recap</string>
+
+    <string-array name="frekuensi">
+        <item>-pilih-</item>
+        <item>BD1-A1</item>
+        <item>JF-B1</item>
+        <item>MP-C2</item>
+    </string-array>
+
+
+    <string-array name="praktikum">
+        <item>-pilih-</item>
+        <item>Basis Data</item>
+        <item>Java Fundamental</item>
+        <item>Mobile Programming</item>
+    </string-array>
+</resources>
